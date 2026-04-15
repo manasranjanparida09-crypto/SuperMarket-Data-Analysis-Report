@@ -1,7 +1,7 @@
 # SuperMarket-Data-Analysis-Report
 Using MS Excel
 # 🛒 SuperMarket Data Analysis – Excel Dashboard
-
+<img src="image_1.png" alt="Description of image" width="500">
 ## 📌 Overview
 This project showcases a **Microsoft Excel dashboard** built for analyzing supermarket sales data.  
 It highlights customer demographics, regional performance, and sales channels, providing actionable insights for marketing and sales growth.
